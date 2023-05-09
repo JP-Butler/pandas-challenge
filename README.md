@@ -1,5 +1,5 @@
 # pandas-challenge   School District Analysis
-==============================================
+
 
 ![SCHOOL](https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2Nob29sJTIwYnVpbGRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60)
 
