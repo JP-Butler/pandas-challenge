@@ -1,5 +1,7 @@
 # pandas-challenge
 
+![SCHOOL](C:\Users\justi\OneDrive\Pictures\erika-fletcher-MZxqc6n9qCw-unsplash small.jpg)
+
 
 ---------------------------------------------------------------------------------------------------
 
