@@ -15,7 +15,9 @@ Challenge Overview
 Contents of Repository
 
 -PyCitySchools folder containing the Jupyter Notebook file, showing all the required analysis results upon running the code.
+
 -Resource folder containing the two csv files which contain all the school and student data used in the analysis.
+
 -ReadMe.md file explaining the challenge and the contents of the repository.
 
 
